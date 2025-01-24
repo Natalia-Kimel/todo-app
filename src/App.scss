@@ -1,0 +1,86 @@
+.main-container {
+    max-width: 1000px;
+    background-color: var(--color-bg-main);
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+
+    @media (width >= 1440px) {
+        font-size: var(--fs-desktop);
+    }
+    @media (width <= 1440px) {
+        font-size: var(--fs-tablet);
+    }
+    @media (width <= 774px) {
+        font-size: var(--fs-mobile);
+    }
+}
+
+.container {
+    max-width: 700px;
+    min-height: 200px;
+    background-color: var(--color-bg);
+    padding: 20px;
+    margin: 40px auto;
+    box-shadow: 0 9px 13px 1px var(--color-main);
+}
+
+.todo-list-container {
+    height: 200px;
+    overflow-y: auto;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: var(--color-bg);
+    margin-top: 20px;
+}
+
+.todo-list-container::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+.todo-list-container::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+.todo-list-container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.task-status {
+    margin-top: 20px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    border-top: 1px var(--color-border) solid;
+}
+
+button {
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    background-color: var(--color-bg);
+    font-weight: var(--font-weight-light);
+    border: 1px transparent;
+
+    &:active {
+        border: 1px var(--color-border) solid;
+    }
+}
+
+h1 {
+    font-size: 50px;
+    color: var(--color-1);
+    align-self: center;
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+    font-weight: var(--font-weight-light);
+    font-size: inherit;
+    color: inherit;
+}
