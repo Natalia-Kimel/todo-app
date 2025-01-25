@@ -1,7 +1,7 @@
 {
     "name": "todo-app",
     "version": "0.1.0",
-    "homepage": "https://natalia-kimel.github.io/",
+    "homepage": "https://natalia-kimel.github.io/todo-app/",
     "private": true,
     "dependencies": {
         "@fontsource/playfair-display": "^5.1.1",
