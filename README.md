@@ -1,5 +1,6 @@
 # ToDo-app
-Приложение, позволяющее управлять текущим списком дел
+Приложение, позволяющее управлять текущим списком дел\
+Доступно по ссылке: https://natalia-kimel.github.io/todo-app/
 
 ## Стек
 SCSS, TypeScript, React, React Hooks, Jest
