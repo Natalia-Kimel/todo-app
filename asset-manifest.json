@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9caf215.css",
-    "main.js": "/static/js/main.bdce61c1.js",
-    "static/media/playfair-display-latin-400-normal.woff": "/static/media/playfair-display-latin-400-normal.9c7c1543d792cb6bb2b2.woff",
-    "static/media/playfair-display-latin-400-normal.woff2": "/static/media/playfair-display-latin-400-normal.01127cbe42de896f8511.woff2",
-    "static/media/playfair-display-latin-ext-400-normal.woff": "/static/media/playfair-display-latin-ext-400-normal.9ea2943ecdca370550c2.woff",
-    "static/media/playfair-display-cyrillic-400-normal.woff": "/static/media/playfair-display-cyrillic-400-normal.e8f79ad5a76821f7165f.woff",
-    "static/media/playfair-display-latin-ext-400-normal.woff2": "/static/media/playfair-display-latin-ext-400-normal.ec5b9e3c4c997f6bac35.woff2",
-    "static/media/playfair-display-cyrillic-400-normal.woff2": "/static/media/playfair-display-cyrillic-400-normal.3dc94a1021075fd54b85.woff2",
-    "static/media/playfair-display-vietnamese-400-normal.woff": "/static/media/playfair-display-vietnamese-400-normal.40221529e528ff3e5a46.woff",
-    "static/media/playfair-display-vietnamese-400-normal.woff2": "/static/media/playfair-display-vietnamese-400-normal.5c877b3fa47066dbb461.woff2",
-    "index.html": "/index.html",
-    "main.c9caf215.css.map": "/static/css/main.c9caf215.css.map",
-    "main.bdce61c1.js.map": "/static/js/main.bdce61c1.js.map"
+    "main.css": "/todo-app/static/css/main.eba43ce1.css",
+    "main.js": "/todo-app/static/js/main.bdce61c1.js",
+    "static/media/playfair-display-latin-400-normal.woff": "/todo-app/static/media/playfair-display-latin-400-normal.9c7c1543d792cb6bb2b2.woff",
+    "static/media/playfair-display-latin-400-normal.woff2": "/todo-app/static/media/playfair-display-latin-400-normal.01127cbe42de896f8511.woff2",
+    "static/media/playfair-display-latin-ext-400-normal.woff": "/todo-app/static/media/playfair-display-latin-ext-400-normal.9ea2943ecdca370550c2.woff",
+    "static/media/playfair-display-cyrillic-400-normal.woff": "/todo-app/static/media/playfair-display-cyrillic-400-normal.e8f79ad5a76821f7165f.woff",
+    "static/media/playfair-display-latin-ext-400-normal.woff2": "/todo-app/static/media/playfair-display-latin-ext-400-normal.ec5b9e3c4c997f6bac35.woff2",
+    "static/media/playfair-display-cyrillic-400-normal.woff2": "/todo-app/static/media/playfair-display-cyrillic-400-normal.3dc94a1021075fd54b85.woff2",
+    "static/media/playfair-display-vietnamese-400-normal.woff": "/todo-app/static/media/playfair-display-vietnamese-400-normal.40221529e528ff3e5a46.woff",
+    "static/media/playfair-display-vietnamese-400-normal.woff2": "/todo-app/static/media/playfair-display-vietnamese-400-normal.5c877b3fa47066dbb461.woff2",
+    "index.html": "/todo-app/index.html",
+    "main.eba43ce1.css.map": "/todo-app/static/css/main.eba43ce1.css.map",
+    "main.bdce61c1.js.map": "/todo-app/static/js/main.bdce61c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9caf215.css",
+    "static/css/main.eba43ce1.css",
     "static/js/main.bdce61c1.js"
   ]
 }
