@@ -23,7 +23,9 @@ const TodoInput: React.FC<TodoInputProps> = ({ addTodo }) => {
         value={inputValue}
         onChange={(e) => setInputValue(e.target.value)}
       />
-      <button type="submit">Add to the list</button>
+      <button type="submit" disabled={!inputValue.trim()}>
+        Add to the list
+      </button>
     </form>
   );
 };

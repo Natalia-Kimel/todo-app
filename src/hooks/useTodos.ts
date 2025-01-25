@@ -36,7 +36,7 @@ const useTodos = () => {
     }
   };
 
-  return { todos, addTodo, toggleTodo, removeTodo, undoLastAction };
+  return { todos, addTodo, toggleTodo, removeTodo, undoLastAction, history };
 };
 
 export default useTodos;

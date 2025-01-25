@@ -10,9 +10,10 @@ interface TodoListProps {
 const TodoList: React.FC<TodoListProps> = ({ todos, toggleTodo}) => {
   return (
     <div>
-      {todos.map(todo => (
+      {todos.length !== 0 ? todos.map(todo => (
         <TodoItem key={todo.id} todo={todo} toggleTodo={toggleTodo}/>
-      ))}
+      )) : 'There are no tasks for today'
+      }
     </div>
   );
 };
